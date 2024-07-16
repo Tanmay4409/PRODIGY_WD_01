@@ -4,6 +4,8 @@
 This is a simple Landing page of Nike built in consideration of actual products built with HTML, CSS, and JavaScript. This had a cta buttons for Men,Women and kids ,Also having a featured products section. Additionally, the footer contains social media links to facebook, Instagram, and X profiles.
 
 ![Screenshot of App](screenshot.png)
+
+
 ![Screenshot of App](screenshot1.png)
 ## Table of Contents
 
