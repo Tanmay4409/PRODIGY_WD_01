@@ -44,20 +44,39 @@ This is a simple Landing page of Nike built in consideration of actual products 
 ## Usage
 
 1. Hover effect  on the featured products .
-2. Click the **New game** button to Start a new game.
-3. Click the **2 User** button to Go to 2 player vs player mode.
-4. Click the **User vs Bot** button to Single player mode vs bot.
+2. Can click on the buy now button
 
 ## Project Structure
 
 ```plaintext
 PRODIGY_WD_01/
-│ 
-├── LinkedinLogo.png
-├── instagram.png
-├── GitHub.png
+│
+├── img/   
+│   ├── facebook-icon.png
+│   ├── hero.png
+│   ├── hero2.png
+│   ├── hero3.png
+│   ├── instagram-icon.png
+│   ├── product1.png
+│   ├── product2.png
+│   ├── product3.png
+│   ├── product4.png
+│   ├── product5.png
+│   ├── product6.png
+│   ├── product7.png
+│   ├── product8.png
+│   ├── product9.png
+│   ├── product10.png
+│   ├── product11.png
+│   ├── product12.png
+│   ├── product13.png
+│   ├── product14.png
+│   ├── product15.png
+│   └──twitter-icon.png
+│
 ├── License
-├── Screenshot.png
+├── screenshot.png
+├── screenshot1.png
 ├── style.css
 ├── script.js
 └── index.html
